@@ -1,11 +1,11 @@
 # ToDoList
 This application lets the user to create to-do lists.
 
-##Install instructions
+## Install instructions
 
 There is no way to install it yet.
 
-##Roadmap
+## Roadmap
 
 This is what I want to accomplish
 * being able to create a checkable to-do list.
